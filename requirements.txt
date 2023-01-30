@@ -8,7 +8,5 @@ plotly
 matplotlib
 sklearn
 pyhdf
-secure-smtlib
-twilio
 h5py
 streamlit_folium
