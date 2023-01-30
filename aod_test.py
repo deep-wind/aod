@@ -73,7 +73,7 @@ julian_day=tt.tm_yday
 if st.button("Predict"):
     user_lat=float(user_lat)
     user_lon=float(user_lon)
-    filePath=r"C:\Users\PRAMILA\Downloads\MOD08_M3.A2022182.061.2022216161531 (1).hdf"
+    filePath=r"MOD08_M3.A2022335.061.2023003231743.hdf"
     hdf= SD(filePath, SDC.READ)
     #print(hdf.datasets())
     sds=hdf.select('AOD_550_Dark_Target_Deep_Blue_Combined_Mean_Mean')
