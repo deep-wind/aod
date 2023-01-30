@@ -6,8 +6,9 @@ openpyxl
 plotly
 matplotlib
 sklearn
-pyhdf==0.7.2
-secure-smtplib
+pyhdf
+hdf4-python
+secure-smtlib
 twilio
 h5py
 streamlit_folium
