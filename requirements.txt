@@ -9,4 +9,5 @@ sklearn
 pyhdf
 secure-smtplib
 twilio
+h5py
 streamlit_folium
