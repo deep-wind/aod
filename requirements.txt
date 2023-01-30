@@ -1,0 +1,12 @@
+pip
+streamlit
+numpy
+pandas
+openpyxl
+plotly
+matplotlib
+sklearn
+pyhdf
+secure-smtplib
+twilio
+streamlit_folium
