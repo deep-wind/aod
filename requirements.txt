@@ -7,7 +7,6 @@ plotly
 matplotlib
 sklearn
 pyhdf
-hdf4-python
 secure-smtlib
 twilio
 h5py
