@@ -6,7 +6,7 @@ openpyxl
 plotly
 matplotlib
 sklearn
-pyhdf
+pyhdf==0.7.2
 secure-smtplib
 twilio
 h5py
